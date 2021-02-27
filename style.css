@@ -1,0 +1,23 @@
+#app{
+    width: 100%;
+    height: 800px;
+    background-color: lime;
+}
+.line{
+    height: 6px;
+    background-color:limegreen;
+    width: 70px;
+    margin: 8px auto;
+}
+#game{
+    width: 100%;
+    height: 800px;
+    background-color: lime;
+}
+img{
+    transition: transform .2s;
+}
+body{
+    text-align:center;
+    
+}
